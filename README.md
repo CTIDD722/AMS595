@@ -10,4 +10,7 @@
 #### Directly run the code
 #### Note: Make sure the version of MATLAB is above R2016a
 
+### Project 3
+#### The project is provided as a Jupyter Notebook, but it can also be run directly with Python.
+
 NOTE: This repository is specifically used for uploading AMS595 assignments

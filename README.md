@@ -16,4 +16,7 @@
 ### Project 4 & 5
 #### run directly with Python.
 
+### Project 6
+#### run directly with Jupyter Notebook.
+
 NOTE: This repository is specifically used for uploading AMS595 assignments

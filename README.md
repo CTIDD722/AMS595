@@ -19,4 +19,7 @@
 ### Project 6
 #### run directly with Jupyter Notebook.
 
+### Project 7
+#### check readme.m in project file
+
 NOTE: This repository is specifically used for uploading AMS595 assignments
